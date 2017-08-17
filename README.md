@@ -17,6 +17,16 @@ Or
 !coin eth
 ````
 
+**Results in***
+
+````
+Coin: Ethereum
+Rank: 2
+Price: 301.111
+Market Cap: 28323572483.0
+Change: -0.19
+````
+
 Examples of other coin symbols
 
 ````
