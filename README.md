@@ -17,7 +17,7 @@ Or
 !coin eth
 ````
 
-**Results in***
+**Results in**
 
 ````
 Coin: Ethereum
