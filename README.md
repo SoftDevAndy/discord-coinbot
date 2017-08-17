@@ -1,5 +1,5 @@
 # discord_coin-bot
-A simple Discord chat bot, using the command !coin BTC (or other coin symbol) the chatbot displays basic, current bitcoin info in chat.
+A simple Discord chat bot, using the command !coin BTC (or other coin symbol) the chatbot displays basic, current Bitcoin info in chat.
 
 # About
 
@@ -62,4 +62,4 @@ It would be good to implement [crypto-normalize](https://www.npmjs.com/package/c
 
 * [discord.io](https://github.com/izy521/discord.io)
 * [request](https://github.com/request/request)
-* [Bit Coin API](https://coinmarketcap.com/api/)
+* [Bitcoin API](https://coinmarketcap.com/api/)

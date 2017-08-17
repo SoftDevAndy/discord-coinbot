@@ -1,0 +1,11 @@
+{
+  "name": "coin-bot",
+  "version": "1.0.0",
+  "description": "coin-bot lingers in Discord and gives us Bitcoin data on demand!",
+  "main": "bot.js",
+  "author": "SoftDevAndy",
+  "dependencies": {
+    "discord.io": "^2.5.1",
+    "request": "^2.81.0"
+  }
+}
