@@ -1,4 +1,4 @@
-# discord_coin-bot
+# discord-coinbot
 A simple Discord chat bot, using the command !coin BTC (or other coin symbol) the chatbot displays basic, current Bitcoin info in chat.
 
 # About
