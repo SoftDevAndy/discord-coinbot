@@ -8,13 +8,17 @@ This project is barebones, was thrown together in an hour as a mini coding chall
 # Running the bot
 
 * You must have **Manage Server permissions** on the discord server to add the bot.
-* You must have an APP BOT USER TOKEN. You replace this token with the existing string in **discordBotToken.json**
+* You must have an APP BOT USER TOKEN. You replace this token with the existing string in **config.json**
 
-discordBotToken.json
+config.json
 
 ```` 
 {
-   "token": "Please add your discord app bot token here"
+    "botname": "Crypto Price Bot",
+    "token": "Please enter a valid token here!",
+    "api": "https://api.coinmarketcap.com/v1/ticker/",
+    "api-key": "Please enter a valid api key here!",
+    "prefix": "!"
 }
 ````
 
@@ -27,23 +31,25 @@ discordBotToken.json
 ## Example
 
 ````
-!coin ETH
+!coin xrp
 ````
 
 Or
 
 ````
-!coin eth
+!coin XRP
 ````
 
 **Results in**
 
 ````
-Coin: Ethereum
-Rank: 2
-Price: 301.111
-Market Cap: 28323572483.0
-Change: -0.19
+----------------------------------
+Rank: XRP 
+Rank: 3 
+Price: 0.304 
+Market Cap: 12545069733.0 
+Change in Past 24 Hours: 0.31 
+----------------------------------
 ````
 
 Examples of other coin symbols
@@ -60,6 +66,6 @@ It would be good to implement [crypto-normalize](https://www.npmjs.com/package/c
 
 ## Resources Used
 
-* [discord.io](https://github.com/izy521/discord.io)
+* [discordjs](https://discord.js.org/#/)
 * [request](https://github.com/request/request)
 * [Bitcoin API](https://coinmarketcap.com/api/)
