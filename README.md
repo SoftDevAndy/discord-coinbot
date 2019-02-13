@@ -34,7 +34,7 @@ config.json
 !coin xrp
 ````
 
-Or
+**Or**
 
 ````
 !coin XRP
