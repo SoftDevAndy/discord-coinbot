@@ -10,7 +10,7 @@ This project is barebones, was thrown together in an hour as a mini coding chall
 * You must have **Manage Server permissions** on the discord server to add the bot.
 * You must have an APP BOT USER TOKEN. You replace this token with the existing string in **config.json**
 
-config.json
+**config.json**
 
 ```` 
 {
@@ -52,7 +52,7 @@ Change in Past 24 Hours: 0.31
 ----------------------------------
 ````
 
-Examples of other coin symbols
+**Examples of other coin symbols**
 
 ````
 BTC, LTC, DOGE etc
