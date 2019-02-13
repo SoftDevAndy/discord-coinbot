@@ -1,0 +1,7 @@
+{
+    "botname": "Crypto Price Bot",
+    "token": "Please enter a valid token here!",
+    "api": "https://api.coinmarketcap.com/v1/ticker/",
+    "api-key": "Please enter a valid api key here!",
+    "prefix": "!"
+}
