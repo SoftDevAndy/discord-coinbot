@@ -60,10 +60,6 @@ BTC, LTC, DOGE etc
 
 For a full list consult the api link below or check out the [raw json request](https://api.coinmarketcap.com/v1/ticker/) yourself to see the available coin symbols 
 
-## Suggestions
-
-It would be good to implement [crypto-normalize](https://www.npmjs.com/package/crypto-normalize) with this at somepoint.
-
 ## Resources Used
 
 * [discordjs](https://discord.js.org/#/)
